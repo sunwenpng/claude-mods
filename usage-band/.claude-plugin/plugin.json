@@ -1,0 +1,1 @@
+{ "name": "usage-band", "version": "0.2.0", "description": "输入框上方常驻显示 5 小时 / 每周用量百分比和重置时间", "types": "./types/index.d.ts" }
