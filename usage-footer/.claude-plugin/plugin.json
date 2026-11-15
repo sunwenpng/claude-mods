@@ -1,0 +1,1 @@
+{ "name": "usage-footer", "version": "0.2.1", "description": "在输入框下方状态行显示 5 小时 / 本周用量百分比和重置倒计时", "author": { "name": "wen" }, "types": "./types/index.d.ts" }
