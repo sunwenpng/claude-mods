@@ -1,0 +1,8 @@
+{
+  "name": "wen-local",
+  "owner": { "name": "wen" },
+  "plugins": [
+    { "name": "usage-band", "source": "./usage-band" },
+    { "name": "usage-footer", "source": "./usage-footer" }
+  ]
+}
